@@ -1,0 +1,6 @@
+{
+  "name": "Dark Looksmaxxing",
+  "description": "Seu guia definitivo e científico para autoaperfeiçoamento facial e corporal agressivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
